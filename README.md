@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi there! 👋 I'm Karl Vincent Peña
 
-<!--
-**karlvincentpena/karlvincentpena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Bachelor of Science in Information Technology Graduate
 
-Here are some ideas to get you started:
+💻 Passionate about:
+- Technical Support
+- System Development
+- IT Documentation
+- Database Management
+- Process Automation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical Skills
+
+✔ C#
+✔ .NET Windows Forms
+✔ MySQL
+✔ HTML/CSS
+✔ Hardware & Software Troubleshooting
+✔ Microsoft Office
+
+## Featured Projects
+
+🚀 VISION
+🚀 Dental Management System
+🚀 SoilMate
+🚀 Billing Management System
+
+📫 Email
+karlvincentpena@gmail.com
+⭐ LinkedIn
+www.linkedin.com/in/karl-vincent-peña-7a770b404
