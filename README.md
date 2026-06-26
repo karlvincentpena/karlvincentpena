@@ -21,9 +21,6 @@
 ## Featured Projects
 
 🚀 VISION
-🚀 Dental Management System
-🚀 SoilMate
-🚀 Billing Management System
 
 📫 Email
 karlvincentpena@gmail.com
